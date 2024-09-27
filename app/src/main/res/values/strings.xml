@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">30dias</string>
+    <string name="Day">Day</string>
+    <string name="day1Content">
+Sujetando una mancuerna en cada mano y con los brazos colgando a los lados, levanta las pesas hasta la altura de los hombros mientras contraes los bíceps.</string>
+    <string name="day2Content">Colócate de pie con los pies más abiertos que la anchura de los hombros y sujeta una mancuerna con ambas manos delante del pecho. Vuelve a sentarte en cuclillas, sube y repite.</string>
+    <string name="day3Content">
+Las mancuernas frente a ti, las palmas hacia los hombros como si acabaras de hacer un curl de bíceps. Empuja las mancuernas hacia arriba por encima de la cabeza mientras giras los brazos hasta que las palmas miren hacia el lado contrario.</string>
+    <string name="day4Content">Gira las muñecas para que miren hacia delante y lleva las pesas a los hombros, saltando ligeramente al hacerlo. Estira lentamente las piernas hasta ponerte de pie. A continuación, baja las pesas hasta el muslo antes de ponerte en cuclillas y repetir.</string>
+    <string name="day5Content">
+Empieza el ejercicio con las manos en las asas de dos mancuernas. Manteniendo el tronco tenso, rema con la mancuerna derecha hasta los abdominales y vuelve a la posición inicial. Repite con la mancuerna izquierda para completar una repetición.</string>
+    <string name="day6Content">Camina hacia delante dando pasos cortos y rápidos. Recorra la distancia lo más rápido posible.</string>
+    <string name="day7Content">
+Con un par de mancuernas a los lados y las palmas de las manos mirando hacia delante, sube las pesas hasta los hombros. Una vez alcanzada la cima del movimiento, haz una pausa y gira las manos para que las palmas miren hacia abajo mientras vuelves a colocar lentamente las mancuernas en la posición inicial con el agarre por encima.</string>
+    <string name="day8Content">Túmbate en un banco plano sujetando dos mancuernas por los hombros con las palmas hacia dentro. Presione las mancuernas hacia arriba hasta que los brazos estén casi completamente extendidos. Esta es la posición inicial. Desde aquí, con los brazos ligeramente flexionados, arquea las pesas hacia los lados hasta que sientas un estiramiento en el pecho. Aprieta los pectorales para volver a la posición inicial invirtiendo el movimiento.</string>
+    <string name="day9Content">Mantén el tronco contraído y la espalda recta mientras remas con las pesas hasta el pecho. Baja y repite.</string>
+    <string name="day10Content">Sujeta las dos mancuernas, baja a la posición de press y realiza un burpee. Cuando empieces a levantarte, aprovecha el impulso para balancear las pesas entre las piernas y, a continuación, directamente por encima de la cabeza. Baja bajo control, vuelve al suelo y repite.</string>
+    <string name="day11Content">Baja las mancuernas hasta la parte superior de los pies, hasta donde pueda llegar extendiendo la cintura, y luego vuelva lentamente a la posición inicial.</string>
+    <string name="day12Content">Flexiona las caderas enviándolas detrás de los talones con la espalda plana. Empieza con los brazos flexionados, acercando las mancuernas a los muslos de modo que la parte superior de los brazos quede paralela al suelo. Estire los brazos hacia atrás con los antebrazos. Vuelva lentamente a la posición inicial y repita.</string>
+    <string name="day13Content">Colócate en cuclillas y balancea la mancuerna entre las piernas antes de impulsarte inmediatamente hacia delante, llevando la pesa hacia la cabeza mientras estiras las piernas. Repite el movimiento y cambia de lado.</string>
+    <string name="day14Content">Túmbate en un banco plano y sujeta dos mancuernas sobre el pecho con un agarre por encima. Empuja hacia arriba hasta que los brazos queden rectos y, a continuación, baja controladamente.</string>
+    <string name="day15Content">Separa los pies a la altura de los hombros y sujeta dos mancuernas a la altura de los hombros con un agarre por encima de la mano. Sujeta las pesas por encima de la cabeza hasta que los brazos estén completamente extendidos. Vuelve lentamente a la posición inicial.</string>
+    <string name="day16Content">De una en una, eleva cada mancuerna hacia el hombro opuesto. Vuelva bajo control a la posición inicial y repita del otro lado.</string>
+    <string name="day17Content">Sujeta una mancuerna con una mano por delante del cuerpo con el agarre por encima. Eleva el codo hacia arriba y hacia el lado utilizando los músculos de los hombros para levantar la pesa hacia la barbilla. Baja con control hasta la posición inicial.</string>
+    <string name="day18Content">Coloca el pie derecho sobre la plataforma elevada y empuja hacia arriba con el talón para elevarse y colocar el pie izquierdo sobre la plataforma. Vuelve a bajar con el pie izquierdo, concentrándote en flexionar la cadera y la rodilla de la pierna derecha. Repite la operación en el otro lado.</string>
+    <string name="day19Content">Túmbate en un banco inclinado y sujeta una mancuerna en cada mano, dejándolas colgar por debajo de los hombros. Utiliza los bíceps para curvar las mancuernas hacia los hombros. Vuelve lentamente a la posición inicial y repite.</string>
+    <string name="day20Content">Arquea las mancuernas hacia los lados manteniendo los brazos rectos en todo momento hasta sentir un fuerte estiramiento en los hombros. Vuelve lentamente a la posición inicial.</string>
+    <string name="day21Content">Empieza tumbado en un banco plano. Sujeta la mancuerna con ambas manos por encima de ti con los brazos ligeramente flexionados. Manteniendo los brazos flexionados, arquee la pesa hacia atrás por detrás de la cabeza y luego vuelva lentamente a la posición inicial.</string>
+    <string name="day22Content">De pie, con las mancuernas a los lados y las palmas hacia el cuerpo. Arrástrese hacia atrás todo lo que pueda con la pierna derecha, doblando la rodilla delantera hasta casi rozar el suelo. Utiliza el talón del pie derecho para empujar la parte superior del cuerpo hasta la posición inicial. Repite con la pierna opuesta.</string>
+    <string name="day23Content">Sujeta dos mancuernas delante de los muslos, con las palmas hacia dentro. Levanta lentamente una pierna recta hacia atrás, doblando ligeramente la otra, e inclínate hacia delante para que los brazos bajen las mancuernas hacia el suelo. Haz una pausa y vuelve a la posición vertical.</string>
+    <string name="day24Content">Coloca una mano a cada lado de una mancuerna y déjala colgar entre las piernas. Levanta la mancuerna directamente por encima de la cabeza, bájala y repite.</string>
+    <string name="day25Content">De pie y sosteniendo dos mancuernas a los lados. Coloca las puntas de los pies sobre un escalón o un plato de pesas con los talones tocando el suelo. Con los dedos de los pies hacia delante, levante los talones del suelo y contrae los gemelos. Vuelve lentamente a la posición inicial.</string>
+    <string name="day26Content">Colócate en el banco inclinado y sujeta una mancuerna con ambas manos. Baja el torso hasta que quede paralelo al suelo. Sujeta la pesa por encima del pecho, manteniendo los brazos lo más rectos posible. Gira el torso y los brazos hacia un lado tanto como sea posible, girando desde la parte baja del torso.</string>
+    <string name="day27Content">Empieza con las mancuernas en la posición frontal con el extremo apoyado sobre los hombros. Agáchate manteniendo el pecho abierto hasta que los muslos queden paralelos. Empuja con los talones de forma explosiva hasta ponerte de pie y deja que el esfuerzo de la sentadilla impulse las mancuernas hasta la posición por encima de la cabeza. Vuelve a colocar las mancuernas sobre los hombros y prepárate para la siguiente repetición.</string>
+    <string name="day28Content">...</string>
+    <string name="day29Content">...</string>
+    <string name="day30Content">...</string>
+    <string name="day1subtitle">Curl de bíceps</string>
+    <string name="day2subtitle">Sentadilla Goblet</string>
+    <string name="day3subtitle">Press Arnold</string>
+    <string name="day4subtitle">Dumbbell Clean</string>
+    <string name="day5subtitle">Renegade Row</string>
+    <string name="day6subtitle">Farmers’ Walk</string>
+    <string name="day7subtitle">Curl Zottman</string>
+    <string name="day8subtitle">Flat Dumbbell Fly</string>
+    <string name="day9subtitle">Remo inclinado con mancuernas</string>
+    <string name="day10subtitle">Devil Press</string>
+    <string name="day11subtitle">Peso muerto con mancuernas</string>
+    <string name="day12subtitle">Dumbbell Kickbacks</string>
+    <string name="day13subtitle">Balanceo de un brazo con mancuerna</string>
+    <string name="day14subtitle">Press de banca con mancuernas</string>
+    <string name="day15subtitle">Press de hombros con mancuernas</string>
+    <string name="day16subtitle">Cross Body Hammer Curl</string>
+    <string name="day17subtitle">Remo vertical con mancuernas</string>
+    <string name="day18subtitle">Step-ups</string>
+    <string name="day19subtitle">Curl araña con mancuernas</string>
+    <string name="day20subtitle">Dumbbell Scaption</string>
+    <string name="day21subtitle">Flexión de brazos con mancuernas</string>
+    <string name="day22subtitle">Reverse Dumbbell Lunge</string>
+    <string name="day23subtitle">Peso muerto rumano a una pierna con mancuernas</string>
+    <string name="day24subtitle">Elevación de hombros con una mancuerna</string>
+    <string name="day25subtitle">Elevación de gemelos con mancuerna</string>
+    <string name="day26subtitle">Sentadilla rotativa con peso</string>
+    <string name="day27subtitle">Thruster con mancuernas</string>
+    <string name="day28subtitle">...</string>
+    <string name="day29subtitle">...</string>
+    <string name="day30subtitle">...</string>
+</resources>
